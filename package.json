@@ -1,0 +1,17 @@
+{
+  "name": "p",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "href.js",
+  "scripts": {
+    "start": "nodemon href.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
